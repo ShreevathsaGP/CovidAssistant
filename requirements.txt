@@ -40,7 +40,7 @@ pyasn1==0.4.8
 pycountry==19.8.18
 pycparser==2.20
 PyMySQL==0.9.3
-pyOpenSSL==17.0.0
+pyOpenSSL==17.5.0
 python-dateutil==2.6.1
 python-slugify==4.0.0
 pytz==2019.3
